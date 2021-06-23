@@ -1,6 +1,6 @@
 Responsive-restaurant-website-HTML-CSS-Js-Landing-Page
 
-Live: https://maidul-bappy-001.github.io/Responsive-restaurant-website-HTML-CSS-Js-Landing-Page/index.html
+Live: https://res-app-front.netlify.app/
 
 Technology-
 
