@@ -803,7 +803,13 @@ footer.copyright a{
     color:var(--primary);
     text-decoration: none;
 }
-
+.sticky {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+    z-index:1;
+    background-color: #fff;
+}
 .nav-background .mobile-logo{
     padding:1rem;
 }
@@ -839,20 +845,6 @@ footer.copyright a{
 .nav-background .contact h6, .nav-background .contact h6{
     font-size: 0.75rem;
 }
-.nav-background .cart{
-    margin-bottom:2rem;
-}
-.nav-background .cart a{
-    color:var(--secondary);
-    text-decoration: none;
-    font-family: "Raleway-bold";
-}
-.nav-background .cart img{
-    margin-right:0.75rem;
-    width:20px;
-    height:20px;
-}
-
 @media (max-width:992px){
     .nav-trigger{
         display:block;
