@@ -1,11 +1,11 @@
-Responsive-restaurant-website-HTML-CSS-Js-Landing-Page
+## Responsive-restaurant-website-HTML-CSS-Js-Landing-Page
 
-Live: https://res-app-front.netlify.app/
+# Live: https://res-app-front.netlify.app/
 
-Technology-
+- Technology-
 
-    *HTML
-    *CSS
-    *JavaScript
+  *HTML
+  *CSS
+  \*JavaScript
 
-#Maidul_Bappy
+## Maidul_Bappy
