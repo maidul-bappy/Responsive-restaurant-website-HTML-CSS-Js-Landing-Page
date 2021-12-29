@@ -1,8 +1,8 @@
-## Responsive-restaurant-website-HTML-CSS-Js-Landing-Page
+## Responsive restaurant website Landing page
 
 ### [Live Site](https://res-app-front.netlify.app/)
 
-![Modern UI/UX GPT-3](https://i.ibb.co/kX6gz5r/screenshot-gpt3.png)
+![Responsive-restaurant-website-Landing_page](https://i.ibb.co/mHyTbRS/Screenshot-2.png)
 
 ### Technology- :
 
